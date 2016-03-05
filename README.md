@@ -1,5 +1,7 @@
 Competitive user experience analysis for a WMATA pay / card-replacement app.
 
+General Assembly 2-day UX Design Bootcamp 
+
 # Competitors
 
 ## Starbucks
