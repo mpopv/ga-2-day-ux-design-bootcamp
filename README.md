@@ -64,3 +64,16 @@ Transit / auto toll automated payment device & web interface.
 
 ### Starbucks
 
+#### User Control & Freedom:
+
+* Difficult to recover from accidental touch commands that bring user to a new screen.
+* No post-hoc error correction.
+
+#### Visibility of Systems / Status
+
+* Shows card(s) balance on main screen on Android version, but not iOS.
+
+#### Aesthetic and Minimalistic Design
+
+* Starbucks took skeumorphism out to the back of the barn and shot it. Literally everything is uppercase geometric text. No color. No buttons. No mercy.
+
