@@ -22,6 +22,7 @@ Giftcard account management & payment app.
   * No credit to overdraft your account
   * Must load money onto 'cards'
   * Not easy to see total balance
+  * No low balance notification
 
 ### EZ-Pass Device / Web Interface
 
