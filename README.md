@@ -76,7 +76,10 @@ Transit / auto toll automated payment device & web interface.
 
 #### Visibility of Systems / Status
 
+![balance](http://i.imgur.com/8qtNFSo.jpg)
+
 * Shows card(s) balance on main screen on Android version, but not iOS.
+* On pay screen, pay button is activated and other top nav options grey out
 
 #### Aesthetic and Minimalistic Design
 
