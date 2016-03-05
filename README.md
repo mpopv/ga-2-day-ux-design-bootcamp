@@ -4,7 +4,7 @@ General Assembly 2-day UX Design Bootcamp
 
 # Competitive Analysis
 
-## Starbucks
+## Starbucks App Interface
 
 Giftcard account management & payment app.
 
@@ -23,7 +23,7 @@ Giftcard account management & payment app.
   * Must load money onto 'cards'
   * Not easy to see total balance
 
-## EZ-Pass
+## EZ-Pass Device / Web Interface
 
 Transit / auto toll automated payment device & web interface.
 
