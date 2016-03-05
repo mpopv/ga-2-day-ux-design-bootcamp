@@ -6,6 +6,7 @@
   * Rewards and incentives presented with delightful visuals
   * Multiple cards
   * Works anywhere
+  * Broad focus
 
 ### Cons
 
