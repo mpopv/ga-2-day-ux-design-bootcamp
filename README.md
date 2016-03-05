@@ -115,7 +115,7 @@ Visiting DC from the rest of the world.
 
 #### Sketch and Name
 
-![Alex the Commuter](http://i.imgur.com/2vxsj1o.jpg)
+![Alex the Commuter](http://i.imgur.com/2vxsj1o.jpg) `<[ Hello! I'm Alex!]`
 
 * Lives in Rosslyn in a downtown apartment
 * 27 years old
