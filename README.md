@@ -122,6 +122,7 @@ Visiting DC from the rest of the world.
 * Uses an iPhone 6
 * Pet parakeet
 * Tech-savvy young working professional
+* UX designer, so very judgemental about bad UX
 * Works in downtown DC
 
 #### Demographic Information
@@ -135,8 +136,18 @@ Visiting DC from the rest of the world.
 * No other option, limited ways
 * Paying in advance online is a hassle and requires forethought
 * Wait behind clueless tourists who can't use the paper slip readers, no quick option or fast lane
+* Recent DC transplant
+* No car; relies on train
 
 #### Needs
 
 * An iPhone-based system where accounts can be maintained and managed
-* Robustness over ease of use: she's always on her phone and 
+* Robustness over ease of use: she's always on her phone and tech-savvy, so figuring out the UI not a problem
+
+#### Potential Solutions
+
+* Easy pay dashboard
+* Another pay option--phone in addition to kiosk / online
+* Automated withdrawal solutions
+* Account setup once (passwords saved, card info)
+* Rewards
