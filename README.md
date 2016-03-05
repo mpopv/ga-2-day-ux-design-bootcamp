@@ -13,6 +13,7 @@ Two chosen competitors:
   * Multiple cards
   * Works anywhere
   * Broad focus
+  * Must physically scan phone to pay
 
 ### Cons
 
@@ -25,6 +26,7 @@ Two chosen competitors:
 
   * Credit to overdraft your account
   * Works multiple locations
+  * Seamless payment
 
 ### Cons
 
@@ -37,9 +39,9 @@ Two chosen competitors:
 
 ### Pros
 
-  * Shows you other cars
   * Seamless payment; user does nothing
   * Credit to overdraft your account
+  * Rating and reporting system for drivers and users
 
 ### Cons
 
@@ -47,4 +49,6 @@ Two chosen competitors:
 
 # Ideas to improve upon
 
-* 
+* Use a card-based system to allow backwards-compatibility with current card system; but also allow direct linking to bank account for those who don't want to worry about loading money onto cards.
+* Provide some sort of take-ten-trips-get-one-free incentive for using app and linking bank account
+* Make payment as seamless as possible: one tap or even RFID location-based proximity payment
