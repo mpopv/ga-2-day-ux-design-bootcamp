@@ -17,6 +17,7 @@ Two chosen competitors:
 ### Cons
 
   * No credit to overdraft your account
+  * Must load money onto 'cards'
 
 ## EZ-Pass
 
@@ -30,6 +31,7 @@ Two chosen competitors:
   * No good way of communicating problems
   * No rewards / incentives
   * Doesn't work beyond east coast
+  * Must load money onto 'cards'
 
 ## Uber
 
