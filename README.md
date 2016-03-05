@@ -111,7 +111,7 @@ Visiting DC from elsewhere in the United States. Wants an easy solution, no time
 
 Visiting DC from the rest of the world.
 
-### Persona: Alex Cooper the Rosslyn Commuter
+### Proto-Persona: Alex Cooper the Rosslyn Commuter
 
 #### Sketch and Name
 
