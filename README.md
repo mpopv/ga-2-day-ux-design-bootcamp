@@ -2,7 +2,7 @@ Competitive user experience analysis for a WMATA pay / card-replacement app.
 
 General Assembly 2-day UX Design Bootcamp 
 
-# Competitors
+# Competitive Analysis
 
 ## Starbucks
 
@@ -59,3 +59,8 @@ Transit / auto toll automated payment device & web interface.
 * Make payment as seamless as possible: one tap or even RFID location-based proximity payment
 * Very intuitive UI for sort-use users like tourists who don't have time/patience to learn a complicated, Uberesque UI
 * Show balance on home screen so it's easy to see how much loaded
+
+# Heuristic Evaluation
+
+## Starbucks
+
