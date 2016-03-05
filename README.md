@@ -6,6 +6,8 @@ General Assembly 2-day UX Design Bootcamp
 
 ## Starbucks
 
+Giftcard account management & payment app.
+
 ### Pros
 
   * Auto-reload that triggers on set low balance
@@ -22,6 +24,8 @@ General Assembly 2-day UX Design Bootcamp
   * Not easy to see total balance
 
 ## EZ-Pass
+
+Transit / auto toll automated payment device & web interface.
 
 ### Pros
 
