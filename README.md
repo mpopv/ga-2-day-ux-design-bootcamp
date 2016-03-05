@@ -80,4 +80,4 @@ Transit / auto toll automated payment device & web interface.
 
 #### Aesthetic and Minimalistic Design
 
-* A vast wasteland of flat ghost elements, monochrome hues, and uppercase geometric text that is simultaneously bereft of all emotion and substance and yet still delightfully usable.
+* Flat ghost elements, monochrome hues, and uppercase geometric text guide users directly to simple set of actions.
