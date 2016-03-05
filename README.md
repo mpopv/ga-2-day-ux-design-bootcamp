@@ -1,5 +1,3 @@
-# ux-competitive-analysis-wmata-app.md
-
 # Starbucks
 
 ### Pros
