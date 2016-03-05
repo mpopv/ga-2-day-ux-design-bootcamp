@@ -19,6 +19,7 @@ Two chosen competitors:
 
   * No credit to overdraft your account
   * Must load money onto 'cards'
+  * Not easy to see total balance
 
 ## EZ-Pass
 
@@ -53,3 +54,4 @@ Two chosen competitors:
 * Provide some sort of take-ten-trips-get-one-free incentive for using app and linking bank account
 * Make payment as seamless as possible: one tap or even RFID location-based proximity payment
 * Very intuitive UI for sort-use users like tourists who don't have time/patience to learn a complicated, Uberesque UI
+* Show balance on home screen so it's easy to see how much loaded
