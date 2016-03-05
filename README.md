@@ -65,7 +65,7 @@ Transit / auto toll automated payment device & web interface.
 
 ### Starbucks
 
-#### User Control & Freedom:
+#### User Control & Freedom
 
 * Difficult to recover from accidental touch commands that bring user to a new screen.
 * No post-hoc error correction.
