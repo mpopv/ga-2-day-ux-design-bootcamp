@@ -1,8 +1,6 @@
-Competitive user experience analysis for a WMATA pay / card-replacement app
+Competitive user experience analysis for a WMATA pay / card-replacement app.
 
 # Competitors
-
-Two chosen competitors:
 
 ## Starbucks
 
