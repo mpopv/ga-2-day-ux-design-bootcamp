@@ -72,7 +72,9 @@ Transit / auto toll automated payment device & web interface.
 
 #### Error Prevention
 
-* Popup with password lock before you can execute a large-dollar transaction.
+![error prevention](http://i.imgur.com/OoeqH0G.png)
+
+* Popup with password lock before you can execute transactions.
 
 #### Visibility of Systems / Status
 
