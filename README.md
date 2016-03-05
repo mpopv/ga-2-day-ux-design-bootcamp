@@ -110,3 +110,45 @@ Visiting DC from elsewhere in the United States. Wants an easy solution, no time
 #### International Tourist
 
 Visiting DC from the rest of the world.
+
+### Persona: Alex the Suburban Commuter
+
+#### Sketch and Name
+
+```
+            (.,------...__
+         _.'"             `.
+       .'  .'   `, `. `.    `
+      . .'   .'/''--...__`.  \
+     . .--.`.  ' "-.     '.  |
+     ''  .'  _.' .())  .--":/
+     ''(  \_\      '   (()(
+     ''._'          (   \ '
+     ' `.            `--'  '
+      `.:    .   `-.___.'  '
+       `.     .    _  _  .'
+         )       .____.-'
+       .'`.        (--..
+     .' \  /\      / /  `.
+   .'    \(  \    /|/     `.
+ .'           \__/          `.
+/      |        o      |      \
+       |               |      |
+```
+
+* Lives in Rosslyn in a downtown apartment
+* 27 years old
+* Uses an iPhone 6
+* Pet parakeet
+* Tech-savvy young working professional
+* Works in downtown DC
+
+#### Demographic Information
+
+* Commutes every weekday during rush hours, walks to Rosslyn Metro
+* Working professional
+
+#### Pain Points
+
+* Lines to pay at the kiosk
+* 
