@@ -151,4 +151,6 @@ Visiting DC from the rest of the world.
 #### Pain Points
 
 * Lines to pay at the kiosk
-* 
+* No other option, limited ways
+* Paying in advance online is a hassle and requires forethought
+* Wait behind clueless tourists who can't use the paper slip readers, no quick option or fast lane
