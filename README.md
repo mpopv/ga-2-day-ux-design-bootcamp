@@ -69,6 +69,10 @@ Transit / auto toll automated payment device & web interface.
 * Difficult to recover from accidental touch commands that bring user to a new screen.
 * No post-hoc error correction.
 
+#### Error Prevention
+
+* Popup with password lock before you can execute a large-dollar transaction.
+
 #### Visibility of Systems / Status
 
 * Shows card(s) balance on main screen on Android version, but not iOS.
