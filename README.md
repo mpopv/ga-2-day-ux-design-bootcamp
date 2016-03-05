@@ -111,30 +111,11 @@ Visiting DC from elsewhere in the United States. Wants an easy solution, no time
 
 Visiting DC from the rest of the world.
 
-### Persona: Alex the Suburban Commuter
+### Persona: Alex Cooper the Rosslyn Commuter
 
 #### Sketch and Name
 
-```
-            (.,------...__
-         _.'"             `.
-       .'  .'   `, `. `.    `
-      . .'   .'/''--...__`.  \
-     . .--.`.  ' "-.     '.  |
-     ''  .'  _.' .())  .--":/
-     ''(  \_\      '   (()(
-     ''._'          (   \ '
-     ' `.            `--'  '
-      `.:    .   `-.___.'  '
-       `.     .    _  _  .'
-         )       .____.-'
-       .'`.        (--..
-     .' \  /\      / /  `.
-   .'    \(  \    /|/     `.
- .'           \__/          `.
-/      |        o      |      \
-       |               |      |
-```
+![Alex the Commuter](http://i.imgur.com/2vxsj1o.jpg)
 
 * Lives in Rosslyn in a downtown apartment
 * 27 years old
@@ -154,3 +135,8 @@ Visiting DC from the rest of the world.
 * No other option, limited ways
 * Paying in advance online is a hassle and requires forethought
 * Wait behind clueless tourists who can't use the paper slip readers, no quick option or fast lane
+
+#### Needs
+
+* An iPhone-based system where accounts can be maintained and managed
+* Robustness over ease of use: she's always on her phone and 
