@@ -158,3 +158,12 @@ Visiting DC from the rest of the world.
 * Automated withdrawal solutions
 * Account setup once (passwords saved, card info)
 * Rewards
+
+### User Flow
+
+* <> Visit home screen, see balance
+* [] Balance is low: Press reload
+* * [] Select funding source
+* * [] Select amount to reload
+* * [] Confirm
+* [] Balance is good: Nothing
