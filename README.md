@@ -86,3 +86,27 @@ Transit / auto toll automated payment device & web interface.
 #### Aesthetic and Minimalistic Design
 
 * Flat ghost elements, monochrome hues, and uppercase geometric text guide users directly to simple set of actions.
+
+## Persona Creation
+
+### Proto-Persona Brainstorming
+
+#### Urban Dweller
+
+Takes Metro everywhere farther than waking distance, including work and on weekends.
+
+#### Suburban Commuter
+
+Lives outside DC and uses Metro primarily for commuting into the District for work on weekdays.
+
+#### Occasional Suburban Visitor
+
+Lives outside DC and drives to work, but occasionally takes Metro into the District for events.
+
+#### Domestic Tourist
+
+Visiting DC from elsewhere in the United States. Wants an easy solution, no time to learn a complex app.
+
+#### International Tourist
+
+Visiting DC from the rest of the world.
