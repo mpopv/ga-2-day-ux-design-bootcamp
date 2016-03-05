@@ -75,5 +75,4 @@ Transit / auto toll automated payment device & web interface.
 
 #### Aesthetic and Minimalistic Design
 
-* Starbucks took skeumorphism out to the back of the barn and shot it. Literally everything is uppercase geometric text. No color. No buttons. No mercy.
-
+* A vast wasteland of flat ghost elements, monochrome hues, and uppercase geometric text that is simultaneously bereft of all emotion and substance and yet still delightfully usable.
