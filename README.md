@@ -163,7 +163,7 @@ Visiting DC from the rest of the world.
 
 * <> Visit home screen, see balance
 * [] Balance is low: Press reload
-* - [] (Optional) Select funding source
-* - [] (Optional) Select amount to reload
-* - [] Confirm
+* -  (Optional) Select funding source
+* -  (Optional) Select amount to reload
+* [] Confirm
 * [] Balance is good: Nothing
